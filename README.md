@@ -1,6 +1,6 @@
-👋 Hi, I’m Ankit Saxena
-👀 I’m interested in JavaScript and Angular
-🌱 I’m currently learning React
+-👋 Hi, I’m Ankit Saxena
+-👀 I’m interested in JavaScript and Angular
+-🌱 I’m currently learning React
 
 
 
